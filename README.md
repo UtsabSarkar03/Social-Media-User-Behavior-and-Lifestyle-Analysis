@@ -6,7 +6,11 @@ A comprehensive exploratory data analysis (EDA) project examining the relationsh
 
 This project analyzes a dataset of 100,000 social media users to uncover insights about digital consumption patterns and their correlation with various lifestyle factors. The analysis explores multiple dimensions including demographics, usage behavior, content preferences, and self-reported wellbeing metrics.
 
-## 📊 [Data [Link]([url](https://www.kaggle.com/datasets/rockyt07/social-media-user-analysis))]
+🙏 Acknowledgments
+
+Dataset source: Social Media User Behavior Dataset ([Update with actual link](https://www.kaggle.com/datasets/utsab5740/social-media-lifestyle))
+Inspiration and methodology references
+Community contributions and feedback
 
 ## 🎯 Objectives
 
