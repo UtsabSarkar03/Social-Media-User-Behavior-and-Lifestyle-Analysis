@@ -8,7 +8,7 @@ This project analyzes a dataset of 100,000 social media users to uncover insight
 
 🙏 Acknowledgments
 
-Dataset source: Social Media User Behavior Dataset ([Update with actual link](https://www.kaggle.com/datasets/utsab5740/social-media-lifestyle))
+Dataset source: Social Media User Behavior Dataset (https://www.kaggle.com/datasets/utsab5740/social-media-lifestyle)
 Inspiration and methodology references
 Community contributions and feedback
 
